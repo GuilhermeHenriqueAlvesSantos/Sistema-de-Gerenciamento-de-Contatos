@@ -27,7 +27,7 @@ Este é um programa em Python para gerenciar uma lista de contatos pessoais. Ele
 4. **Finalização:**
    - Para sair do programa, escolha a opção "Sair do Programa" no menu principal.
 
-##Participantes:
+###Participantes:
 
 * Eduardo Freitas
 * Guilherme Santos
