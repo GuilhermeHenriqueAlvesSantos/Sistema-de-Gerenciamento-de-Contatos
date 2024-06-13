@@ -1,20 +1,3 @@
-'''Implementar a opção 2 (procurar contato) da seguinte forma:
-Ficar pedindo para digitar um nome até digitar um nome que existe;
-mostrar então na tela TODOS os demais dados daquela pessoa, cujo
-nome foi digitado.
-
-Implementar a opção 3 (atualizar contato) da seguinte forma:
-Ficar mostrando um menu oferecendo as opções de atualizar aniversário, ou
-endereco, ou telefone, ou celular, ou email, ou finalizar as
-atualizações; ficar pedindo para digitar a opção até digitar uma
-opção válida; realizar a atulização solicitada; até ser escolhida a
-opção de finalizar as atualizações.
-
-Implementar a opção 4 (listar contato) da seguinte forma:
-Mostrar na tela os TODOS os dados de CADA um dos contatos presentes
-na lista chamada agenda (eventualmente chamada de agd).
-'''
-
 def apresenteSe ():
     print('+-------------------------------------------------------------+')
     print('|                                                             |')
